@@ -1,0 +1,27 @@
+# Customer Churn Prediction & Retention Analytics
+
+## Project Summary
+This project analyzes customer churn data and builds a machine learning model to predict whether a customer is likely to leave the company.
+
+## Business Questions
+- Which customers are most likely to churn?
+- What factors influence customer churn the most?
+- How can churn insights support retention strategies?
+
+## Key Findings
+- TotalCharges, tenure, and MonthlyCharges were the most important predictors of churn.
+- Customers with shorter tenure were more likely to churn.
+- Customers with higher monthly charges showed higher churn risk.
+- Contract type and certain service-related features influenced churn behavior.
+
+## Model Performance
+- Accuracy: 79%
+- Churn Precision: 0.64
+- Churn Recall: 0.46
+
+## Skills Demonstrated
+- Data cleaning
+- Exploratory data analysis
+- Feature engineering
+- Machine learning
+- Business insight generation

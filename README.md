@@ -39,7 +39,7 @@ The dataset contains customer demographic information, service usage details, bi
 - Contract type and service-related features were strong churn drivers
 
 ## Feature Importance Preview
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](image/feature_importance.png)
 
 ## Business Value
 This analysis can help businesses:
